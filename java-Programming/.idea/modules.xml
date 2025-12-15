@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section1-Introduction/Section1-Introduction.iml" filepath="$PROJECT_DIR$/Section1-Introduction/Section1-Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2-VariablesNDataTypes/Section2-VariablesNDataTypes.iml" filepath="$PROJECT_DIR$/Section2-VariablesNDataTypes/Section2-VariablesNDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-Programming.iml" filepath="$PROJECT_DIR$/java-Programming.iml" />
+    </modules>
+  </component>
+</project>
