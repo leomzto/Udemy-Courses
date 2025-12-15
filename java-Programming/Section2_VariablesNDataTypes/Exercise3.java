@@ -1,3 +1,5 @@
+package Section2_VariablesNDataTypes;
+
 public class Exercise3 {
 
     public static void main (String[] args) {
